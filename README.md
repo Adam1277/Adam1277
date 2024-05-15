@@ -7,8 +7,8 @@
 
 List of completed programming courses:
 <ul>
-  <li>Intro to Computer Science</li>
-  <li>Computer Architechture</li>
+  <li>Intro to Computer Science (Python and OOP)</li>
+  <li>Computer Architechture (Breadboards and Python)</li>
   <li>Programming workshops 1 & 2</li>
   <li>Data Structures and Algorithms</li>
   <li>Data Science with Python, Git and Unix</li>
