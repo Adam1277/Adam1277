@@ -1,4 +1,4 @@
-# Hey! Im Adam Levere 🚀
+## Hey! Im Adam Levere 🚀
 <ul>
   <li>💻 I am entering third year of Computer Science at UOIT. I am taking a math minor as well</li>
   <li>📧 You can email me at adamlevere@icloud.com</li>
