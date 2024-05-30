@@ -16,4 +16,4 @@ List of completed programming courses:
   <li>UML design and analysis (Text Representation, Phases of UP, Diagrams and Documentation)</li>
 </ul>
 
-# My school account -> AdamLevere1
+### My school account -> AdamLevere1
