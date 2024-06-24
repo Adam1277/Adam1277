@@ -17,3 +17,7 @@ List of completed software courses:
 </ul>
 
 ### My school account -> AdamLevere1
+
+Work Experience:
+Incoming Software QA @FGF brands, Toronto(Sept 2024 - Aug 2025)
+IT Support Analyst @ Simnet, Whitby(June 2023 - Sept 2023)
