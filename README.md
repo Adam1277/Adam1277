@@ -5,7 +5,7 @@
   <li>🌐 Connect with me over <a href="https://www.linkedin.com/in/adam-levere-b97770273/">LinkedIn</a></li>
 </ul>
 
-List of completed programming courses:
+List of completed software courses:
 <ul>
   <li>Intro to Computer Science (Python and OOP)</li>
   <li>Computer Architechture (Breadboards and Python)</li>
