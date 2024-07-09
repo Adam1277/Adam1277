@@ -3,6 +3,7 @@
   <li>💻 I just finished my second year of Computer Science at UOIT. I am taking a math minor as well</li>
   <li>📧 You can email me at adamlevere@icloud.com</li>
   <li>🌐 Connect with me over <a href="https://www.linkedin.com/in/adam-levere-b97770273/">LinkedIn</a></li>
+  <li>🔍 Check out my <a href="https://leetcode.com/u/adamlevere/">Leetcode</a> progress!</li>
 </ul>
 
 ### Work Experience:
