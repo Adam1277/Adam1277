@@ -6,7 +6,7 @@
 </ul>
 
 ### Work Experience:
-Incoming Software QA @FGF brands, Toronto (Sept 2024 - Aug 2025) <br>
+Incoming Software QA @FGF brands, Toronto (Sept 2024 - Aug 2025) <br> 
 IT Support Analyst @Simnet, Whitby (June 2023 - Sept 2023)
 
 List of completed software courses:
