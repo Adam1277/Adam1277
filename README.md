@@ -1,13 +1,13 @@
 ## Hey! Im Adam Levere 🚀
 <ul>
-  <li>💻 I just finished my second year of Computer Science at UOIT. I am taking a math minor as well</li>
+  <li>💻 I just finished my second year of Computer Science at UOIT. I am taking a math minor as well.</li>
   <li>📧 You can email me at adamlevere@icloud.com</li>
   <li>🌐 Connect with me over <a href="https://www.linkedin.com/in/adam-levere-b97770273/">LinkedIn</a></li>
   <li>🔍 Check out my <a href="https://leetcode.com/u/adamlevere/">Leetcode</a> progress!</li>
 </ul>
 
 ### Work Experience:
-Incoming Software QA @FGF brands, Toronto (Sept 2024 - Aug 2025) <br> 
+Software QA & Test Coordinator @FGF brands, Toronto (Sept 2024 - Aug 2025) <br> 
 IT Support Analyst @Simnet, Whitby (June 2023 - Sept 2023)
 
 List of completed software courses:
