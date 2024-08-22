@@ -7,7 +7,7 @@
 </ul>
 
 ### Work Experience:
-Software QA & Test Coordinator @FGF brands, Toronto (Sept 2024 - Aug 2025) <br> 
+Software QA @FGF brands, Toronto (Sept 2024 - Aug 2025) <br> 
 IT Support Analyst @Simnet, Whitby (June 2023 - Sept 2023)
 
 List of completed software courses:
