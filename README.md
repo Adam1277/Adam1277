@@ -7,19 +7,19 @@
 </ul>
 
 ### Work Experience:
-Software QA @FGF brands, Toronto (Sept 2024 - Aug 2025) <br> 
+Software QA @FGF brands, Toronto (July 2024 - Aug 2025) <br> 
 IT Support Analyst @Simnet, Whitby (June 2023 - Sept 2023)
 
 List of completed software courses:
 <ul>
   <li>Intro to Computer Science (Python and OOP)</li>
-  <li>Computer Architechture (Breadboards and Python)</li>
+  <li>Computer Architecture (Breadboards and Python)</li>
   <li>Programming workshops 1 & 2 (C++, Sorting and OOP)</li>
-  <li>Data Structures and Algorithms (Java, Sorting, Stacks, Queue's, LinkedLists and BST's)</li>
-  <li>Data Science with Python, Git and Unix (Git, Unix, Python)</li>
+  <li>Data Structures and Algorithms (Java, Sorting, Stacks, Queues, LinkedLists and BSTs)</li>
+  <li>Data Science with Python, Git, and Unix (Git, Unix, Python)</li>
   <li>Computational Science 1 (Complexity, Algorithms, Sorting, Formatting math to code)</li>
-  <li>RESTful and Websocket Api's (Java, JAX-RS, HTML, CSS, Javascript, RESTful and Websocket Api's)</li>
-  <li>UML design and analysis (Text Representation, Phases of UP, Diagrams and Documentation)</li>
+  <li>RESTful and Websocket API's (Java, JAX-RS, HTML, CSS, Javascript, RESTful and Websocket API's)</li>
+  <li>UML design and analysis (Text Representation, Phases of UP, Diagrams, and Documentation)</li>
 </ul>
 
 ### My school account -> AdamLevere1
