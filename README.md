@@ -10,6 +10,10 @@
 Software QA @FGF brands, Toronto (July 2024 - Aug 2025) <br> 
 IT Support Analyst @Simnet, Whitby (June 2023 - Sept 2023)
 
+Sorting Project:
+https://adam1277.github.io/Data-Structures-Visualizer/DataStructresClient/sorting.html
+
+
 List of completed software courses:
 <ul>
   <li>Intro to Computer Science (Python and OOP)</li>
