@@ -6,6 +6,10 @@
   <li>🔍 Check out my <a href="https://leetcode.com/u/adamlevere/">Leetcode</a> progress!</li>
 </ul>
 
+### Current Projects:
+- Data Structure Visualization Tool
+- Xpath generator, chrome extention tool
+
 ### Work Experience:
 Software QA @FGF brands, Toronto (July 2024 - Aug 2025) <br> 
 IT Support Analyst @Simnet, Whitby (June 2023 - Sept 2023)
