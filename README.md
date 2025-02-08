@@ -11,7 +11,7 @@
 - Xpath generator, chrome extention tool
 
 ### Work Experience:
-Software QA @FGF brands, Toronto (July 2024 - Aug 2025) <br> 
+Software Automation in Test @FGF brands, Toronto (July 2024 - Aug 2025) <br> 
 IT Support Analyst @Simnet, Whitby (June 2023 - Sept 2023)
 
 Sorting Project:
