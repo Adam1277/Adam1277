@@ -8,10 +8,9 @@
 
 ### Current Projects:
 - Data Structure Visualization Tool
-- Xpath generator, chrome extention tool
 
 ### Work Experience:
-Software Automation in Test @FGF brands, Toronto (July 2024 - Aug 2025) <br> 
+Software Test Automation @FGF brands, Toronto (July 2024 - Aug 2025) <br> 
 IT Support Analyst @Simnet, Whitby (June 2023 - Sept 2023)
 
 Sorting Project:
